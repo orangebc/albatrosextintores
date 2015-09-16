@@ -1,0 +1,70 @@
+.popup {
+	left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1001;
+}
+
+.content-popup{
+	float: left;
+	height: 450px;
+	width: 90%;
+	margin-left: 5%;
+	border: 0.5px solid #999;
+	margin-right: 5%;
+	background-image: url(ALBATROSC/image/fondopopup.jpg);
+	background-repeat: repeat;
+        margin-top:10%;
+        overflow:auto;
+        position: fixed;
+              }
+
+.content-user{
+	float: left;
+	height: 500px;
+	width: 40%;
+	margin-left: 30%;
+	border: 0.5px solid #999;
+	background-image: url(ALBATROSC/image/fondopopup.jpg);
+	background-repeat: repeat;
+        margin-top:5%;
+        overflow:auto;
+        position: fixed;
+              }
+/*
+.content-popup {
+    margin-left: 10%;
+	margin-top:10%;
+	position:relative;
+	padding:10px;
+	width:80%;
+	height:450px;
+	background-color:#FFFFFF;
+        overflow:auto;
+    position: fixed;
+}
+*/
+.content-popup h2 {
+	color:#48484B;
+	border-bottom: 1px solid #48484B;
+    margin-top: 0;
+    padding-bottom: 4px;
+}
+
+.popup-overlay {
+	left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+	display:none;
+	background-color: #006b6b;
+    cursor: pointer;
+    opacity: 0.5
+}
+
+.close {
+	position: absolute;
+    right: 15px;
+}

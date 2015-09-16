@@ -1,0 +1,93 @@
+<!DOCTYPE html5>
+<html>
+<header>
+<meta charset="UTF-8">
+<link href='http://fonts.googleapis.com/css?family=Raleway:600,300' rel='stylesheet' type='text/css'>
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+<script type='text/javascript' src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>    
+<link href="css/styleheader.css" rel="stylesheet" type="text/css">
+<title>
+</title>
+<script>
+    $(document).ready(function()
+		{ 
+        /*-------------------Abrir------------------------------*/
+		$("#boton_menu_open").click(function () {
+                        $('#scroll_menu').slideDown('down');
+                        $('#boton_menu_close').show();
+                        $('#boton_menu_open').hide();
+			});
+        /*-------------------Cerrar------------------------------*/
+        $("#boton_menu_close").click(function () {
+                        $('#scroll_menu').slideUp('down');
+                        $('#boton_menu_close').hide();
+                        $('#boton_menu_open').show();
+			});
+         
+});
+</script>
+<style>
+body{
+margin:0px 0px 0px 0px;
+width: 100%;
+height: auto;
+background-image: url(http://apod.nasa.gov/apod/image/0109/ngc6992_mandel_big.jpg);
+}
+</style>
+</header>
+<body>
+<!-------------------------------------------------------------------------------------------------------------------------------------------->
+<div id="hcont">
+     <div class="icon_logo"><img src="images/logo.png" class="images_logo_type"></div>
+
+     <div class="menu_head">
+          <div class="h_optios">
+                <a class="special"> INICIO <br> BIENVENIDO</a>
+          </div>           
+          <div class="h_optios">
+                 CATALOGO PUBLICO<br> GENERAL DF.
+          </div>   
+          <div class="h_optios">
+                 CATALOGO<br>DISTRIBUIDORES
+          </div> 
+          <div class="h_optios">
+                 FORMA Y DATOS <br> PARA PAGO
+          </div> 
+          <div class="h_optios">
+                 NOTIFICAR <br> MI PAGO
+          </div> 
+          <div class="h_optios">
+                 QUIENES <br> SOMOS
+          </div> 
+          <div class="h_optios">
+                 ¿REQUIERES <br> ASCESORIA?
+          </div> 
+          <div class="h_optios">
+                 CONTACTO <br> ESCRIBENOS
+          </div>   
+     </div>
+
+</div>
+<!-------------------------------------------------------------------------------------------------------------------------------------------->
+<div id="hcont_nav">
+     
+     <div class="icon_logo"><img src="images/logo.png" class="images_logo_type" heigth="200">
+    <!-- Abrir --><div class="bmenu" id="boton_menu_open"><img class="image_bmenu" src="images/icons/bmenu.png" width="auto"></div>
+    <!-- Cerrar --><div class="bmenu" id="boton_menu_close" style="display:none;"><img class="image_bmenu" src="images/icons/bmenu.png" width="auto"></div>
+     </div>
+    <div class="menu_head" id="scroll_menu" style="display:none;">
+          <div class="h_optios">INICIO</div><div class="h_optios_nav"><a style="font-size:3em;">►</a></div>          
+          <div class="h_optios">QUIENES SOMOS</div><div class="h_optios_nav"><a style="font-size:3em;">►</a></div>
+          <div class="h_optios">CATALOGO</div><div class="h_optios_nav"><a style="font-size:3em;">►</a></div> 
+          <div class="h_optios">FORMA DE ENVIO</div><div class="h_optios_nav"><a style="font-size:3em;">►</a></div>  
+          <div class="h_optios">SER DISTRIBUIDOR</div><div class="h_optios_nav"><a style="font-size:3em;">►</a></div>  
+          <div class="h_optios">REQUIERO ASESORIA</div><div class="h_optios_nav"><a style="font-size:3em;">►</a></div>  
+          <div class="h_optios">CONTACTO</div><div class="h_optios_nav"><a style="font-size:3em;">►</a></div>  
+          <div class="h_optios">SIGUENOS</div><div class="h_optios_nav"><a style="font-size:3em;">►</a></div>    
+     </div>
+
+</div>
+<!-------------------------------------------------------------------------------------------------------------------------------------------->
+
+</body>
+</html>

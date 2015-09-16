@@ -1,0 +1,77 @@
+<html>
+<header>
+<meta charset="UTF-8">
+<link href='http://fonts.googleapis.com/css?family=Raleway:600,300' rel='stylesheet' type='text/css'>
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+<link href="css/styleheader.css" rel="stylesheet" type="text/css">
+<title>
+</title>
+<style>
+body{
+margin:0px 0px 0px 0px;
+width: 100%;
+height: auto;
+}
+</style>
+<script>
+/*        $(document).ready(function(){
+                    
+                                      });*/
+</script>
+</header>
+<body>
+<!-------------------------------------------------------------------------------------------------------------------------------------------->
+<div id="hcont">
+     <div class="icon_logo"><img src="images/logo.png" heigth="200"></div>
+
+     <div class="menu_head">
+          <div class="h_optios">
+                <a class="special"> INICIO <br> BIENVENIDO</a>
+          </div>           
+          <div class="h_optios">
+                 CATALOGO PUBLICO<br> GENERAL DF.
+          </div>   
+          <div class="h_optios">
+                 CATALOGO<br>DISTRIBUIDORES
+          </div> 
+          <div class="h_optios">
+                 FORMA Y DATOS <br> PARA PAGO
+          </div> 
+          <div class="h_optios">
+                 NOTIFICAR <br> MI PAGO
+          </div> 
+          <div class="h_optios">
+                 QUIENES <br> SOMOS
+          </div> 
+          <div class="h_optios">
+                 ¿REQUIERES <br> ASCESORIA?
+          </div> 
+          <div class="h_optios">
+                 CONTACTO <br> ESCRIBENOS
+          </div>   
+     </div>
+
+</div>
+<!-------------------------------------------------------------------------------------------------------------------------------------------->
+<div id="hcont_nav">
+     <div class="icon_logo"><img src="images/logo.png" heigth="200">
+     <div class="bmenu">
+               Ver menu
+               <img src="images/icons/bmenu.png" width="64">
+     </div>
+     </div>
+     <div class="menu_head">
+          <div class="h_optios"><a class="special"></a></div><div class="h_optios_nav"><a style="font-size:3em;">►</a></div>          
+          <div class="h_optios">                       </div><div class="h_optios_nav"><a style="font-size:3em;">►</a></div>
+          <div class="h_optios">                       </div><div class="h_optios_nav"><a style="font-size:3em;">►</a></div> 
+          <div class="h_optios">                       </div><div class="h_optios_nav"><a style="font-size:3em;">►</a></div>  
+          <div class="h_optios">                       </div><div class="h_optios_nav"><a style="font-size:3em;">►</a></div>  
+          <div class="h_optios">                       </div><div class="h_optios_nav"><a style="font-size:3em;">►</a></div>  
+          <div class="h_optios">                       </div><div class="h_optios_nav"><a style="font-size:3em;">►</a></div>  
+          <div class="h_optios">                       </div><div class="h_optios_nav"><a style="font-size:3em;">►</a></div>    
+     </div>
+
+</div>
+<!-------------------------------------------------------------------------------------------------------------------------------------------->
+</body>
+</html>

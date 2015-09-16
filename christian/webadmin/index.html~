@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+     <head>
+          <title>Inicio de Sesion</title>
+          <script src="ajaxadmin.js" type="text/javascript"></script>
+          <script src="../jquery-ui-1.10.4/jquery-1.10.2.js"></script>
+     </head>
+<body> 
+     <form name="logadmin" onsubmit="log_admin(); return false">
+          <input type="text" name="super_admin" placeholder="Administrador"><br>
+          <input type="password" name="super_psswrd" placeholder="Password">
+          <input type="submit" name="bot_session" value="Entrar">
+     </form>
+     <div id="approved"></div>
+</body>
+</html>

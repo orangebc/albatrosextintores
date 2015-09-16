@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+       <meta charset="UTF-8">
+       <link rel="stylesheet" type="text/css" href="../DragDropInteractions/fonts/font-awesome-4.2.0/css/font-awesome.min.css" />
+       <script src="jquery-ui-1.10.4/jquery-1.10.2.js"></script>
+       <script src="webajaxregistro.js"></script>
+       <link href="../css/popup.css" rel="stylesheet" type="text/css">
+
+<style>
+.a{
+background-color:#006b6b;
+padding:6px 6px;
+margin:-6px -6px;
+color:#fff;
+cursor:pointer;
+border-radius:25px;
+font-size:2em;
+} 
+body{
+     margin:0px 0px 0px 0px;
+    }
+.Xnotice{ 
+width:300px;
+height:100px;
+background-color:#006b6b;
+}
+.iconfa{
+font-size:2em;
+color:#fff;
+ 
+}
+</style>
+<script>
+for(i=0;i<sessionStorage.length;i++)
+				{
+				producto=sessionStorage.getItem(sessionStorage.key(i));
+				$("#setting_buy").append('<tr><td><input class=elim_ar id='+sessionStorage.key(i)+' type=button value=Eliminar></td><td>'+sessionStorage.key(i)+'</td><td><input type=text class=cant_art name='+sessionStorage.key(i)+' value='+producto+'></td></tr>');
+				}
+</script>
+<!--------------------------------------------------------------------------------------------------------------------------------------------->
+</head>
+<body>
+<?php include('_sessionstart.php');?>
+<div id="guardado_carrito" style="background-color:red;"><i class="fa fa-shopping-cart iconfa"><span></span></i></div>
+<button OnClick="qwerty();">consultar</button>
+<?php $session=_start(); ?>
+
+<div id="guardado" style="background-color:blue;"></div>
+<div id='setting_buy' style="background-color:green;"></div>
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+
+       
+<?php include('consulta.php');?>
+<div id='mail_res' style="background-color:green;"></div>           
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+<div class="popup" id="ppsession" style="display: none;">
+    <div class="content-popup">
+        <div class="close"><a href="http://201.152.140.32/cosmos/ecart.php#" id="closesession"><img src="./ecart_files/close.png"></a></div>
+        <div>
+
+             <fieldset style="margin-top:50px;">
+               <legend>Ya tienes cuenta? Ingresa para comprar.</legend>
+                  <form name="old_user" onsubmit="LoginUser(); return false">
+                        <input type="email" name="ml" placeholder="Email">
+                        <input type="password" name="psswrd" placeholder="Contraseña"><br>
+                        <input type="submit" value="Entrar">
+                  </form>
+                  <div id="approved"></div>
+               </fieldset>
+
+             <fieldset style="margin-top:25px;">
+               <legend>Registra una cuenta para comprar</legend>
+                  <form name="new_user" onsubmit="SaveNewUser(); return false">
+                        <input type="email" name="ml" placeholder="Email">
+                        <input type="text" name="nm" placeholder="Nombre"><br>
+                        <input type="text" name="p_pt" placeholder="Apellido Paterno">
+                        <input type="text" name="p_mt" placeholder="Apellido Materno"><br>
+                        <input type="text" name="mprs" placeholder="Empresa">
+                        <input type="password" name="psswrd" placeholder="Contraseña"><br>
+                        <input type="password" name="psswrd_confirm" placeholder="Confirmar Contraseña">
+                        <input type="submit" value="Guardar Contacto">
+                  </form>
+                  <div id="save_user"></div>
+               </fieldset>
+
+
+        </div>
+    </div>
+</div>
+<div class="popup-overlay"></div>
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+<button class="grab" id="F0001">Ver Lista de Compra</button>
+<div class="popup" id="setting_buy" style="display: none;">
+    <div class="content-popup">
+        <div class="close"><a href="http://201.152.140.32/cosmos/ecart.php#" id="closecart"><img src="./ecart_files/close.png"></a></div>
+        <div>
+             <div id="resultado"></div>
+        </div>
+    </div>
+</div>
+<div class="popup-overlay"></div>
+<div id="tgb"></div>
+<!--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+
+
+</body></html>

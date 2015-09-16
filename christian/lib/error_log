@@ -1,0 +1,109 @@
+[26-Jan-2015 14:25:01 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[26-Jan-2015 14:25:01 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[26-Jan-2015 14:25:01 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/consulta.php on line 6
+[26-Jan-2015 14:25:01 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/consulta.php on line 9
+[26-Jan-2015 14:25:02 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[26-Jan-2015 14:25:02 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[26-Jan-2015 14:25:02 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/consulta.php on line 6
+[26-Jan-2015 14:25:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/consulta.php on line 9
+[26-Jan-2015 14:25:02 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[26-Jan-2015 14:25:02 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[26-Jan-2015 14:25:02 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/consulta.php on line 6
+[26-Jan-2015 14:25:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/consulta.php on line 9
+[26-Jan-2015 14:25:03 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[26-Jan-2015 14:25:03 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[26-Jan-2015 14:25:03 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/consulta.php on line 6
+[26-Jan-2015 14:25:03 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/consulta.php on line 9
+[26-Jan-2015 14:52:15 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[26-Jan-2015 14:52:15 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[26-Jan-2015 14:52:15 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/consulta.php on line 7
+[26-Jan-2015 14:52:15 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/consulta.php on line 10
+[26-Jan-2015 14:52:17 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[26-Jan-2015 14:52:17 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[26-Jan-2015 14:52:17 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/consulta.php on line 7
+[26-Jan-2015 14:52:17 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/consulta.php on line 10
+[26-Jan-2015 14:53:33 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[26-Jan-2015 14:53:33 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[26-Jan-2015 14:53:33 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/consulta.php on line 7
+[26-Jan-2015 14:53:33 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/consulta.php on line 10
+[26-Jan-2015 14:53:33 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[26-Jan-2015 14:53:33 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[26-Jan-2015 14:53:33 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/consulta.php on line 7
+[26-Jan-2015 14:53:33 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/consulta.php on line 10
+[26-Jan-2015 14:53:54 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[26-Jan-2015 14:53:54 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[26-Jan-2015 14:53:54 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/consulta.php on line 7
+[26-Jan-2015 14:53:54 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/consulta.php on line 10
+[26-Jan-2015 14:53:55 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[26-Jan-2015 14:53:55 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[26-Jan-2015 14:53:55 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/consulta.php on line 7
+[26-Jan-2015 14:53:55 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/consulta.php on line 10
+[26-Jan-2015 14:58:01 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 57
+[26-Jan-2015 14:59:28 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 57
+[26-Jan-2015 15:02:35 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 57
+[27-Jan-2015 11:17:02 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 57
+[27-Jan-2015 11:20:05 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[27-Jan-2015 11:20:05 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[27-Jan-2015 11:20:05 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/consulta.php on line 7
+[27-Jan-2015 11:20:05 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/consulta.php on line 10
+[27-Jan-2015 11:20:07 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[27-Jan-2015 11:20:07 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[27-Jan-2015 11:20:07 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 42
+[27-Jan-2015 11:20:07 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/selectbynumber.php on line 43
+[27-Jan-2015 11:20:07 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 42
+[27-Jan-2015 11:20:07 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/selectbynumber.php on line 43
+[27-Jan-2015 11:20:07 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 42
+[27-Jan-2015 11:20:07 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/selectbynumber.php on line 43
+[27-Jan-2015 11:20:07 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 42
+[27-Jan-2015 11:20:07 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/selectbynumber.php on line 43
+[27-Jan-2015 11:20:07 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 42
+[27-Jan-2015 11:20:07 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/selectbynumber.php on line 43
+[27-Jan-2015 11:50:57 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 43
+[27-Jan-2015 13:08:11 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 43
+[27-Jan-2015 13:09:14 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:84) in /home/albatros/public_html/lib/_session.php on line 14
+[27-Jan-2015 13:09:25 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 43
+[27-Jan-2015 13:36:17 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:84) in /home/albatros/public_html/lib/_session.php on line 14
+[27-Jan-2015 13:37:25 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:84) in /home/albatros/public_html/lib/_session.php on line 14
+[27-Jan-2015 16:04:40 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 43
+[27-Jan-2015 16:04:49 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 43
+[27-Jan-2015 16:08:14 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:84) in /home/albatros/public_html/lib/_session.php on line 14
+[27-Jan-2015 16:09:39 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:84) in /home/albatros/public_html/lib/_session.php on line 14
+[27-Jan-2015 16:13:19 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 43
+[27-Jan-2015 16:28:13 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:84) in /home/albatros/public_html/lib/_session.php on line 14
+[27-Jan-2015 16:33:59 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:84) in /home/albatros/public_html/lib/_session.php on line 14
+[27-Jan-2015 16:36:47 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:84) in /home/albatros/public_html/lib/_session.php on line 14
+[27-Jan-2015 16:36:58 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 43
+[06-Feb-2015 16:52:20 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[06-Feb-2015 16:52:20 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[06-Feb-2015 16:52:20 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 42
+[06-Feb-2015 16:52:20 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/selectbynumber.php on line 43
+[06-Feb-2015 16:52:20 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 42
+[06-Feb-2015 16:52:20 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/selectbynumber.php on line 43
+[06-Feb-2015 16:52:20 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 42
+[06-Feb-2015 16:52:20 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/selectbynumber.php on line 43
+[06-Feb-2015 16:52:20 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 42
+[06-Feb-2015 16:52:20 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/selectbynumber.php on line 43
+[06-Feb-2015 16:52:20 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 42
+[06-Feb-2015 16:52:20 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/selectbynumber.php on line 43
+[06-Feb-2015 16:52:20 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 42
+[06-Feb-2015 16:52:20 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/lib/selectbynumber.php on line 43
+[06-Feb-2015 16:53:09 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[06-Feb-2015 16:53:09 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[06-Feb-2015 16:53:09 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/registrocart2.php on line 23
+[06-Feb-2015 16:56:17 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:108) in /home/albatros/public_html/lib/_session.php on line 14
+[06-Feb-2015 16:57:02 America/New_York] PHP Warning:  opendir(../profiles/7305693253bbdf2cfd34e0a7c96710fd0be48bbd/_XML/0/): failed to open dir: No such file or directory in /home/albatros/public_html/lib/dirxml.php on line 9
+[06-Feb-2015 17:10:12 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 43
+[06-Feb-2015 17:10:33 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:108) in /home/albatros/public_html/lib/_session.php on line 14
+[06-Feb-2015 20:38:16 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:108) in /home/albatros/public_html/lib/_session.php on line 14
+[06-Feb-2015 20:38:17 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:108) in /home/albatros/public_html/lib/_session.php on line 14
+[06-Feb-2015 20:38:17 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:108) in /home/albatros/public_html/lib/_session.php on line 14
+[07-Feb-2015 00:12:23 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:108) in /home/albatros/public_html/lib/_session.php on line 14
+[09-Feb-2015 10:21:04 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:108) in /home/albatros/public_html/lib/_session.php on line 14
+[09-Feb-2015 11:01:42 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:108) in /home/albatros/public_html/lib/_session.php on line 14
+[09-Feb-2015 14:36:57 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 43
+[09-Feb-2015 14:39:19 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:108) in /home/albatros/public_html/lib/_session.php on line 14
+[09-Feb-2015 14:40:48 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:108) in /home/albatros/public_html/lib/_session.php on line 14
+[10-Feb-2015 10:25:07 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:108) in /home/albatros/public_html/lib/_session.php on line 14
+[10-Feb-2015 11:22:07 America/New_York] PHP Warning:  opendir(../profiles/466f52f840a30e62b52949ee6044eb511e293e83/_XML/0/): failed to open dir: No such file or directory in /home/albatros/public_html/lib/dirxml.php on line 9
+[11-Feb-2015 16:27:23 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 43
+[11-Feb-2015 16:27:47 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/albatros/public_html/lib/selectbynumber.php on line 43

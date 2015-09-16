@@ -1,0 +1,277 @@
+<!DOCTYPE html5>
+<html>
+<header>
+<title></title>
+<meta charset="UTF-8">
+<link href='http://fonts.googleapis.com/css?family=Raleway:800,400' rel='stylesheet' type='text/css'>
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"> </script> 
+<script type="text/javascript" src="js/webajaxregistro.js"> </script> 
+<link href="css/styleheader.css" rel="stylesheet" type="text/css">
+<link href="http://www.justinaguilar.com/animations/css/animations.css" rel="stylesheet" type="text/css">
+<link href="css/stylepagos.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="images/icons/logo.png" type="image/png" />
+<title>
+</title>
+<script>
+    $(document).ready(function()
+		{ 
+        /*-------------------Abrir------------------------------*/
+		$("#boton_menu_open").click(function () {
+                        $('#scroll_menu').slideDown('down');
+                        $('#boton_menu_close').show();
+                        $('#boton_menu_open').hide();
+			});
+        /*-------------------Cerrar------------------------------*/
+        $("#boton_menu_close").click(function () {
+                        $('#scroll_menu').slideUp('down');
+                        $('#boton_menu_close').hide();
+                        $('#boton_menu_open').show();
+			});
+        /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+        $("#boton_notice_1").click(function () {
+                        $('#notice_div_1').slideDown('down');
+                        $('#notice_div_2').slideUp('up');
+                        $('#bajio').slideUp('up');
+			});
+        $("#notice_div_bank").click(function () {
+                        $('#notice_div_2').slideUp('up');
+                        $('#notice_div_1').slideUp('up');
+                        $('#bajio').slideDown('down');
+			});
+        
+        $("#boton_notice_2").click(function () {
+                        $('#notice_div_2').slideDown('down');
+                        $('#bajio').slideUp('up');
+                        $('#notice_div_1').slideUp('up');
+			});
+        /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+        $("#hsbc_notice_1").click(function () {
+                        $('#notice_hsbc_1').slideDown('down');
+                        $('#notice_hsbc_2').slideUp('up');
+                        $('#hsbc').slideUp('up');
+			});
+        $("#notice_div_bank_2").click(function () {
+                        $('#notice_hsbc_2').slideUp('up');
+                        $('#notice_hsbc_1').slideUp('up');
+                        $('#hsbc').slideDown('down');
+			});
+        
+        $("#hsbc_notice_2").click(function () {
+                        $('#notice_hsbc_2').slideDown('down');
+                        $('#hsbc').slideUp('up');
+                        $('#notice_hsbc_1').slideUp('up');
+			});
+        /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+        $("#ixe_notice_1").click(function () {
+                        $('#notice_ixe_1').slideDown('down');
+                        $('#notice_ixe_2').slideUp('up');
+                        $('#ixe').slideUp('up');
+			});
+        $("#notice_div_bank_3").click(function () {
+                        $('#notice_ixe_2').slideUp('up');
+                        $('#notice_ixe_1').slideUp('up');
+                        $('#ixe').slideDown('down');
+			});
+        
+        $("#ixe_notice_2").click(function () {
+                        $('#notice_ixe_2').slideDown('down');
+                        $('#ixe').slideUp('up');
+                        $('#notice_ixe_1').slideUp('up');
+			});
+        /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+        $("#oxxo_notice_1").click(function () {
+                        $('#notice_oxxo_1').slideDown('down');
+                        $('#notice_oxxo_2').slideUp('up');
+                        $('#oxxo').slideUp('up');
+			});
+        $("#notice_div_bank_4").click(function () {
+                        $('#notice_oxxo_2').slideUp('up');
+                        $('#notice_oxxo_1').slideUp('up');
+                        $('#ixe').slideDown('down');
+			});
+        
+        $("#oxxo_notice_2").click(function () {
+                        $('#notice_oxxo_2').slideDown('down');
+                        $('#oxxo').slideUp('up');
+                        $('#notice_oxxo_1').slideUp('up');
+			});
+        /*+++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+});
+</script>
+<style>
+.sepdor{width:100%; height: 25px; background-color: #fff;}
+body{
+margin:0px 0px 0px 0px;
+width: 100%;
+height: auto;
+background-color: #fff;
+}
+    hr {
+  background-color: #006b6b;
+  border:1px solid #006b6b;
+  width: 5%;
+}
+
+</style>
+</header>
+<body>
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Cabecera+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<div id="hcont">
+     <div class="icon_logo"><img src="images/logo.png" class="images_logo_type"></div>
+
+     <div class="menu_head">
+          <a href="index.html"><div class="h_optios">
+              <b>INICIO <br> BIENVENIDO</b>
+              </div></a>           
+          <div class="h_optios">
+                 CATALOGO PUBLICO<br> GENERAL DF.
+          </div>   
+          <div class="h_optios">
+                 CATALOGO<br>DISTRIBUIDORES
+          </div> 
+          <a href="pagos.html"><div class="h_optios">
+                 FORMA Y DATOS <br> PARA PAGO
+              </div></a> 
+          <a href="notificacion.html"><div class="h_optios">
+                 NOTIFICAR <br> MI PAGO
+              </div></a> 
+          <a href="somos.html"><div class="h_optios">
+                 QUIENES <br> SOMOS
+              </div> </a>
+          <div class="h_optios">
+                 ¿REQUIERES <br> ASCESORIA?
+          </div> 
+          <div class="h_optios">
+                 CONTACTO <br> ESCRIBENOS
+          </div>   
+     </div>
+
+</div>
+<!-------------------------------------------------------------------------------------------------------------------------------------------->
+<div id="hcont_nav">
+     
+     <div class="icon_logo"><img src="images/logo.png" class="images_logo_type" heigth="200"></div>
+    <!-- Abrir --><div class="bmenu" id="boton_menu_open"><img class="image_bmenu" src="images/icons/bmenu.png" width="auto"></div>
+    <!-- Cerrar --><div class="bmenu" id="boton_menu_close" style="display:none;"><img class="image_bmenu" src="images/icons/bmenu.png" width="auto"></div>
+    
+    <div class="menu_head" id="scroll_menu" style="display:none;">
+          <div class="h_optios">INICIO</div><a href="index.html"><div class="h_optios_nav"><b style="font-size:3em;">►</b></div></a>         
+          <div class="h_optios">QUIENES SOMOS</div><div class="h_optios_nav"><b style="font-size:3em;">►</b></div>
+          <div class="h_optios">CATALOGO</div><div class="h_optios_nav"><b style="font-size:3em;">►</b></div> 
+          <div class="h_optios">FORMA DE PAGO</div><a href="pagos.html"><div class="h_optios_nav"><b style="font-size:3em;">►</b></div></a>  
+          <div class="h_optios">FORMA DE ENVIO</div><div class="h_optios_nav"><b style="font-size:3em;">►</b></div>  
+          <div class="h_optios">SER DISTRIBUIDOR</div><div class="h_optios_nav"><b style="font-size:3em;">►</b></div>  
+          <div class="h_optios">REQUIERO ASESORIA</div><div class="h_optios_nav"><b style="font-size:3em;">►</b></div>  
+          <div class="h_optios">CONTACTO</div><div class="h_optios_nav"><b style="font-size:3em;">►</b></div>  
+          <div class="h_optios">SIGUENOS</div><div class="h_optios_nav"><b style="font-size:3em;">►</b></div>    
+     </div>
+
+</div>
+<!----------------------------------------------------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------------------------------------------------->
+     <div class="border_menu"></div>
+     <div class="bann_text_pago"><img src="images/icons/BULLETNOTIFICARPAGO.jpg" class="image_ban_pago"></div>
+     <div class="nota_pago">
+         <h1>DONDE HAGO MI PAGO</h1>
+     </div><hr>
+     <div class="nota_texto_pago">
+            Puedes notificar tus pagos a traves de este formulario o via telefonica a los numeros<br>
+            01 (55) 1054.5208 / 01 (55) 1054.5208
+     </div>
+    <div class="nota_pago">
+         <h1>INFO. DE PAGO</h1>
+     </div><hr>
+<div class="cont_box">
+<form name="prodata" onsubmit="aproove_datos(); return false">
+    <div class="mod_box"><input type="mail" name="ml" class="form_albatros" placeholder="Correo"></div>
+    <div class="mod_box"><input type="text" class="form_albatros" placeholder="R.F.C"></div>
+    <div class="mod_box"><input type="text" class="form_albatros" placeholder="Localidad"></div>
+    <div class="mod_box"><input type="date" class="form_albatros" placeholder="Fecha de deposito"></div>
+    
+    <div class="mod_box"><input type="text" class="form_albatros" placeholder="Establecimiento"></div>
+    <div class="mod_box"><input type="text" name="kpy" class="form_albatros" placeholder="Llave de Pago"></div>
+    <div class="mod_box"><input type="text" name="deposite_c"class="form_albatros" placeholder="No. de operacion"></div>
+    <div class="mod_box"><input type="text" class="form_albatros" placeholder="Importe depositado"></div>
+              <input type="submit" value="Notificar mi pago" class="big_buttom">
+    <div id="key_approved"></div>
+</div>
+</form>     
+<!---------------------------------------------------------------------------------------------------------------------------------------------- --> 
+    <div class="nota_pago">
+         <h1>EJEMPLOS DE PAGO</h1>
+     </div><hr>
+
+<div class="cont_box">
+      <div class="mod_box" id="notice_2">
+        <div class="images_nota_pag">
+         <div class="mod_box_image_notice" style="background-image: url(http://csh.izt.uam.mx/sistemadivisional/SDIP/comecso/pagos/pago_3MSXWAS_recibo%20hsbc.jpg);" id="notice_hsbc_1"></div>
+         <div class="mod_box_image_notice" style="background-image: url(http://csh.izt.uam.mx/sistemadivisional/SDIP/comecso/pagos/pago_4HQCA6K4_RECIBO%20HSBC.jpg);" id="notice_hsbc_2"></div>
+         
+         <img src="images/icons/LOGOHSBC.jpg" class="image_pag" id="hsbc">
+       </div>
+         <div class="title_nota_pag" id="notice_div_bank_2">HSBC</div>
+          <div class="bene_nota_pag" id="hsbc_notice_1">VER EJEMPLO<br><b>PAGO CON TRANSFERENCIA</b></div>
+         <div class="clabe_nota_pag" id="hsbc_notice_2">VER EJEMPLO<br><b>PAGO CON DEPOSITO EN VENTANILLA</b></div>
+     </div> 
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+     <div class="mod_box" id="notice_1">
+       <div class="images_nota_pag">
+         <div class="mod_box_image_notice" style="background-image: url(http://i41.tinypic.com/2zh4lr7.jpg);" id="notice_div_1"></div>
+         <div class="mod_box_image_notice" style="background-image: url(http://www.construccion.org/tienda_web_icg/files/images/imagen_1.png);" id="notice_div_2"></div>
+         
+         <img src="images/icons/LOGOBANCOBAJIO.jpg" class="image_pag" id="bajio">
+       </div>
+         <div class="title_nota_pag"  id="notice_div_bank">BANCO DEL BAJÍO</div>
+         <div class="bene_nota_pag" id="boton_notice_1">VER EJEMPLO<br><b>PAGO CON TRANSFERENCIA</b></div>
+         <div class="clabe_nota_pag" id="boton_notice_2">VER EJEMPLO<br><b>PAGO CON DEPOSITO EN VENTANILLA</b></div>
+     </div>
+<!----------------------------------------------------------------------------------------------------------------------------------------------->
+     <div class="mod_box" id="notice_3">
+       <div class="images_nota_pag">
+         <div class="mod_box_image_notice" style="background-image: url(http://donwebayuda.com/wp-content/uploads/2013/12/comprobante-Galicia-Deposito.gif.png);" id="notice_ixe_1"></div>
+         <div class="mod_box_image_notice" style="background-image: url(http://www.telephone2.com/gallery/2037.gif);" id="notice_ixe_2"></div>
+         
+         <img src="images/icons/LOGOBANCOIXE.jpg" class="image_pag" id="bajio">
+       </div>
+         <div class="title_nota_pag"  id="notice_div_bank_3">BANCO IXE</div>
+         <div class="bene_nota_pag" id="ixe_notice_1">VER EJEMPLO<br><b>PAGO CON TRANSFERENCIA</b></div>
+         <div class="clabe_nota_pag" id="ixe_notice_2">VER EJEMPLO<br><b>PAGO CON DEPOSITO EN VENTANILLA</b></div>
+     </div>
+<!------------------------------------------------------------------------------------------------------------------------------------------------>
+     <div class="mod_box" id="notice_4">
+       <div class="images_nota_pag">
+         <div class="mod_box_image_notice" style="background-image: url(http://www.hospedando.com.mx/contenido/comprobantes/oxxo.jpg);" id="notice_oxxo_1"></div>
+         <div class="mod_box_image_notice" style="background-image: url(http://www.hospedando.com.mx/contenido/comprobantes/banamex.jpg);" id="notice_oxxo_2"></div>
+         
+         <img src="images/icons/LOGOOXXO.jpg" class="image_pag" id="bajio">
+       </div>
+         <div class="title_nota_pag"  id="notice_div_bank_4">OXXO</div>
+         <div class="bene_nota_pag" id="oxxo_notice_1">VER EJEMPLO<br><b>PAGO CON TRANSFERENCIA</b></div>
+         <div class="clabe_nota_pag" id="oxxo_notice_2">VER EJEMPLO<br><b>PAGO CON DEPOSITO EN VENTANILLA</b></div>
+     </div>
+
+</div>
+<!--------------------------------------------------------------------------------------------------------------footer -->
+<div class="footer">
+    <div class="cont_footer">
+        <div class="cols_footer">
+            <div class="rows_col1_footer"><br>01 (55) 1054.5208<br>01 (55) 1054.5209</div><div class="rows_col2_footer"><img src="images/icons/ICONTEL.png" class="image_icon_footer"></div>
+            <div class="rows_col1_footer"><br>Enviar<br>Un Mail</div><div class="rows_col2_footer"><img src="images/icons/ICONMAIL.png" class="image_icon_footer"></div>
+            <div class="rows_col1_footer"><br>albatrosextintores</div><div class="rows_col2_footer"><img src="images/icons/ICONFACE.png" class="image_icon_footer"></div>
+            <div class="rows_col1_footer rc1f"><br>@albatrosextintor</div><div class="rows_col2_footer rc2f"><img src="images/icons/ICONTWITTER.png" class="image_icon_footer"></div>
+        </div>
+        <div class="cols_footer"><img src="images/logo.png" class="logo_footer"></div>
+        <div class="cols_footer center">
+            <h3>VENTA AL PUBLICO<br>APLICA SOLO EN<br>DISTRITO FEDERAL</h3>
+            <p>Venta de equipo armado, solo en el Distrito Federal. Consulata con nuestros asesores entregas a domicilio o entregas en tienda</p>
+        </div>
+        <div class="cols_footer center">
+            <h3>VENTA DE DISTRIBUDORES<br>EN TODA LA REPUBLICA<br>MEXICANA</h3>
+            <p>Realizamos los envios a toda la Republica Mexicana atraves de nuestros socios transportistas o a traves de la linea de tu preferencia</p>       
+        </div>
+    </div>
+</div>
+    <div class="firma"><img src="images/icons/FIRMAOBC.png" class="img_firma" style="display:none;"></div>
+<!------------------------------------------------------------------------------------------------------------fin footer-->
+</body>

@@ -1,0 +1,15 @@
+<!DOCTYPE html5>
+<html>
+<head>
+</haed>
+<body>
+<form action="lib/lib_1.php" method="post">
+<input type="text" placeholder="Nombre" name="name" autocomplete="off"><br><br>
+<input type="text" placeholder="Categoria" name="categoria" autocomplete="off"><br><br>
+<input type="text" placeholder="descripcion" name="descripcion" autocomplete="off"><br><br>
+<input type="text" placeholder="Precio Normal" name="precio_normal" autocomplete="off"><br><br>
+<input type="text" placeholder="Promo" name="promo" autocomplete="off"><br><br>
+<input type="submit" value="Guardar">
+</form>
+</body>
+</html>

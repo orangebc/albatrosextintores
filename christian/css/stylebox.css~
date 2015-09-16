@@ -1,0 +1,329 @@
+#object1,#object2,#object3,#object4,#ob_text{visibility: hidden;}
+.center{text-align: center;}
+.ban_title{color: #fff; font-family: Raleway,sans-serif; font-size: 6em; font-weight: 800;line-height: 1em;}
+.ban_subtitle{color: #fff; font-family: Raleway,sans-serif; font-size: 3em; font-weight: 400;padding-top: 10px;}
+.trayectoria_h1{font-family: Raleway,sans-serif; font-size:4em;}
+.subtitle{font-family:Raleway; font-weight: 800;color:grey; text-align: center;}
+.bann_text{width:100%; background-color:transparent;position:absolute; text-align: center;}
+.firma{
+width:100%;
+height: auto;
+background-color: red;
+}
+
+.image_cataloge{
+margin:0% 0% 0% 0%;
+}
+.image_prop{
+width:100%;
+height:300px;
+overflow: hidden;
+float:left;
+background-size: cover;
+background-position: center;
+}
+.title{
+width:100%;
+height:25px;
+overflow: hidden;
+float:left;
+border-bottom: 1px solid #000;
+color:gray;
+    font-family: Raleway,sans-serif;
+    font-size: 1.5em;
+    font-weight: 800;
+text-align: center;
+padding:10px 0px 10px 0px; 
+}
+.text{
+width:96%;
+height:80px;
+overflow: hidden;
+float:left;
+border-bottom: 1px solid #000;
+color:grey;
+text-align: center;
+padding: 5px 2% 5px 2%;
+font-family: Raleway,sans-serif; font-weight: 400;
+font-size: .75em;
+}
+.price{
+padding: 6px 0px 6px 0px;
+width:100%;
+height:35px;
+overflow: hidden;
+float:left;
+border-bottom: 1px solid #000;
+text-align: center;
+color:grey;
+font-family: Raleway,sans-serif; font-weight: 400;font-size: .8em
+}
+.prom{
+padding: 6px 0px 6px 0px;
+width:100%;
+height:35px;
+overflow: hidden;
+float:left;
+border-bottom: 1px solid #000;
+color:#006b6b;
+text-align: center;
+font-family: Raleway,sans-serif;font-weight: 400;font-size: .8em;
+}
+.key{
+padding: 6px 0px 6px 0px;
+width:100%;
+height:35px;
+overflow: hidden;
+float:left;
+border-bottom: 1px solid #000;
+background-color: #006B6B;
+color: #fff;
+text-align: center;
+font-family: Raleway, sans-serif; font-weight: 400; font-size: .8em;
+}
+.info{
+padding: 6px 0px 6px 0px;
+width:100%;
+height:35px;
+overflow: hidden;
+float:left;
+color:grey;
+text-align: center;
+font-family: Raleway,sans-serif;font-weight: 400;font-size: .6em;
+cursor: pointer;
+}
+.banner_info{
+width:100%;
+height:600px;
+background-image: url(../images/backgrounds/FONDOEMPRESALIDER.jpg);
+margin: 0px 0px 0px 0px;
+background-repeat:no-repeat;
+background-size:cover;
+background-position: center;
+overflow: hidden;
+}
+
+.s_image{
+          width: 100%;
+          height: auto;
+          margin:0px 0px 0px 0%;
+          overflow: hidden;
+        }
+.s_text{
+          text-align: center; 
+          width: 100%;
+          height: 160px;
+          margin:10px 0px 0px 0%;
+          overflow: hidden;
+          color:grey;
+        }
+.banner_font{font-family: Raleway; font-weight: 400; font-size: 1.5em;color:white; text-align: center;}
+
+
+.banners_rows{width: 100%; height:auto;overflow: hidden;}
+
+@media only screen and (max-width: 2568px){
+.cont_box{
+          width: 100%;
+          height: auto;
+          margin:25px 0px 25px 0%;
+          overflow: hidden;
+         }
+.mod_box{
+          width: 22.5%;
+          height: auto;
+          margin:15px 0px 15px 2%;
+          overflow:hidden; 
+          float:left;
+          border: 1px solid #000;
+          background-color:#fff;
+        }
+.somos_cont{ 
+          width:100%;
+          height:auto;
+          overflow:hidden;
+          margin-top: 35px;
+          margin-bottom: 35px;
+          margin-left:0%;
+          }
+.s_cont{
+          font-family: Raleway;
+          font-weight: 400;
+          width:22.5%;
+          height:auto;
+          overflow:hidden;
+          float:left;
+          margin:15px 0px 15px 2%;
+          }
+.banner_text{
+          width:50%;
+          height: auto;
+          margin: 225px 0% 0% 25%;
+            }
+.bullet_image{width:20%; margin-left:40%;}
+.icon_somos{width:30%; margin-left: 35%;}
+}
+@media only screen and (max-width: 1600){
+            .ban_title{color: #fff; font-family: Raleway,sans-serif; font-size: 3em; font-weight: 800;}
+            .ban_subtitle{color: #fff; font-family: Raleway,sans-serif; font-size: 1.5em; font-weight: 400;}
+            
+}
+@media only screen and (max-width: 1366px){
+     
+    .bullet_image{width:40%; margin-left:30%;}
+    .banner_text{
+          width:60%;margin-left:20%;
+            }
+    .icon_somos{width:60%; margin-left: 20%;}
+    .mod_box{
+          width: 22.5%;
+          height: auto;
+          margin:15px 0px 15px 2%;
+          overflow: hidden; 
+          float:left;
+          border: 1px solid #000;
+        }
+     }
+
+@media only screen and (max-width: 840px){
+    .mod_box{
+          width: 47%;
+          margin:15px 0px 5px 2%;
+        }
+    .s_cont{
+          width:47%;
+          height:300px;
+          margin:15px 0px 5px 2%;
+          }
+    .icon_somos{width:40%; margin-left: 30%;}
+    .bullet_image{width:60%; margin-left:20%;}
+    .ban_title{color: #fff; font-family: Raleway,sans-serif; font-size: 4.5em; font-weight: 800;}
+    .ban_subtitle{color: #fff; font-family: Raleway,sans-serif; font-size: 2.7em; font-weight: 400;}
+    .banner_text{width:80%; margin: 150px 0% 0% 10%;
+            }
+    .banner_info{height: 450px;}
+}
+    
+@media only screen and (max-width: 768px){
+.banner_text{
+          width:80%;
+          margin: 225px 0% 0% 10%;
+            }
+}
+@media only screen and (max-width: 640px ){
+        .icon_somos{width:40%; margin-left: 30%;}
+        .ban_title{color: #fff; font-family: Raleway,sans-serif; font-size: 3.8em; font-weight: 800;}
+        .ban_subtitle{color: #fff; font-family: Raleway,sans-serif; font-size: 2em; font-weight: 400;}
+}
+
+@media only screen and (max-width: 580px ){
+ .bullet_image{width:80%; margin-left:10%;}
+ .s_cont{height: 350px;}
+}
+
+@media only screen and (max-width: 480px){
+    .cont_box{
+          margin:0px 0px 0px 0%;
+         }
+     .mod_box{
+              width: 90%;
+              margin:10px 0px 5px 5%;
+             }
+    .banner_text{
+          font-size: .8em;
+          width:94%;
+          margin: 80px 0% 0% 3%;
+            }
+    .banner_info{height: 300px;}
+
+}
+
+@media only screen and (max-width: 360px){
+
+    .s_cont{
+          width:90%;
+          height: 280px;
+          margin:10px 0px 5px 5%;
+          }
+    .bann_text{margin-top:40%;}
+    .ban_title{color: #fff; font-family: Raleway,sans-serif; font-size: 3em; font-weight: 800;}
+    .ban_subtitle{color: #fff; font-family: Raleway,sans-serif; font-size: 1.6em; font-weight: 400;}
+    .banner_text{
+          margin: 50px 0% 0% 3%;
+            }
+     .bullet_image{width:100%; margin-left:0%;}
+     .icon_somos{width:40%; margin-left: 30%;}
+}
+@media only screen and (max-width: 320px){
+      .banner_text{margin: 45px 0% 0% 3%;}
+    
+}
+/*--------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media only screen and (max-height: 2568px){
+       .port{width:100%;height:900px;overflow: hidden;}
+       .bann_text{margin-top:250px;}
+}
+@media only screen and (max-height: 1280px){
+       .port{width:100%;height:1280px;overflow: hidden;}
+       .bann_text{margin-top:450px;}
+
+}
+@media only screen and (max-height: 1024px){
+       .port{width:100%;height:1024px;overflow: hidden;}
+       .bann_text{margin-top:450px;}
+
+}
+@media only screen and (max-height: 900px){
+       .port{width:100%;height:900px;overflow: hidden;}
+       .bann_text{margin-top:450px;}
+
+}
+@media only screen and (max-height: 800px){
+       .port{width:100%;height:800px;overflow: hidden;}
+       .bann_text{margin-top:300px;}
+
+}
+@media only screen and (max-height: 768px){
+       .port{width:100%;height:768px;overflow: hidden;}
+       .bann_text{margin-top:300px;} 
+}
+@media only screen and (max-height: 640px){
+       .port{width:100%;height:640px;overflow: hidden;}
+       .bann_text{margin-top:270px;} 
+}
+@media only screen and (max-height: 600px){
+       .port{width:100%;height:600px;overflow: hidden;}
+       .bann_text{margin-top:250px;} 
+}
+@media only screen and (max-height: 568px){
+       .port{width:100%;height:568px;overflow: hidden;}
+       .bann_text{margin-top:250px;} 
+}
+@media only screen and (max-height: 480px){
+       .port{width:100%;height:480px;overflow: hidden;}
+       .bann_text{margin-top:150px;}
+}
+@media only screen and (max-height: 360px){ 
+       .port{width:100%;height:360px;overflow: hidden;}
+       .bann_text{margin-top:150px;}
+       .ban_title{color: #fff; font-family: Raleway,sans-serif; font-size: 2em; font-weight: 800;}
+       .ban_subtitle{color: #fff; font-family: Raleway,sans-serif; font-size: 1.5em; font-weight: 400;}
+       
+}
+@media only screen and (max-height: 320px){ 
+       .port{width:100%;height:320px;overflow: hidden;}
+       .bann_text{margin-top:150px;}
+       .ban_title{color: #fff; font-family: Raleway,sans-serif; font-size: 2em; font-weight: 800;}
+       .ban_subtitle{color: #fff; font-family: Raleway,sans-serif; font-size: 1.5em; font-weight: 400;}
+       
+}
+/*--------------------------------------------------------------------------------------------------------------------------------------------------*/
+h1 {
+    
+}
+
+.banner_font_h1 {font-family: Raleway,sans-serif; color: #fff; text-align: center;}
+
+.plus_icon {
+   margin-top:5px; width: 16px;
+}

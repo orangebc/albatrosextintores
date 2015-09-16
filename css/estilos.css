@@ -1,0 +1,143 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+	font: 14px 'Roboto', sans-serif;
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+}
+    img {
+	width: 100%;
+	max-width: auto;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+}
+@media only screen and (max-width: 2560px) {
+label {
+	display: block;
+	width: 98%;
+	text-align: left;
+	float: left;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.formulario {
+	display: block;
+	width: 100%;
+	font-family: "Roboto", sans-serif;
+	color: #999999;
+	font-size: 1em;
+	height: auto;
+	margin-top: 0;
+	margin-right: auto;
+	margin-left: 0px;
+	float: left;
+	font-weight: 300;
+}
+form {
+	width: 100%;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	float: left;
+}
+
+ input, textarea {
+	width: 97.5%;
+	height: 20px;
+	font-family: "Roboto", sans-serif;
+	color: #666666;
+	font-size: 0.9em;
+	float: left;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	padding-left: 2%;
+	font-weight: 300;
+	border: thin solid #CCC;
+}
+
+textarea {
+	height: 90px;
+	width: 97.5%;
+	float: left;
+	border: thin solid #CCC;
+}
+ 
+#submit {
+	width: 100%;
+	height: auto;
+	margin-top: 5px;
+	cursor: pointer;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-right: 0%;
+	margin-left: 0%;
+	background-color: #FFF;
+}
+}
+@media only screen and (max-width: 1152px) {
+.formulario {
+
+	font-size: 0.9em;
+}
+}
+@media only screen and (max-width: 800px) {
+.formulario {
+	display: block;
+	width: 100%;
+	font-family: "Roboto", sans-serif;
+	color: #999999;
+	font-size: 0.8em;
+	height: auto;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: 0px;
+	float: left;
+	font-weight: 400;
+}
+}
+@media only screen and (max-width: 800px) {
+.formulario {
+	color: #999999;
+	font-size: 0.9em;
+}
+}
+@media only screen and (max-width: 480px) {
+.formulario {
+	color: #999999;
+	font-size: 0.9em;
+	text-align: center;
+}
+ input, textarea {
+	width: 97.5%;
+	height: 20px;
+	font-family: "Roboto", sans-serif;
+	color: #666666;
+	font-size: 0.9em;
+	float: left;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	padding-left: 2%;
+	font-weight: 300;
+	border: thin solid #CCC;
+}
+label {
+	text-align: center;
+}
+textarea {
+	height: 100px;
+	width: 97.5%;
+	float: left;
+	border: thin solid #CCC;
+}
+}

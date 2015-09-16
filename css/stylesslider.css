@@ -1,0 +1,112 @@
+/* reset */
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+ol, ul {
+	list-style: none;
+}
+
+a img{
+	border: none;
+}
+
+
+
+
+/* HTML5 para los navegadores viejos */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+/* fin reset */
+/*  estilos personales */
+
+#contenedor {
+	width: 100%;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	float: left;
+	height: auto;
+}
+
+.contsilde {
+	width: 100%;
+	float: left;
+	height: 800px;
+	margin-top: 0px;
+}
+h1#textoa{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	font-size: 5em;
+	color: #FFFFFF;
+	text-align: center;
+	height: auto;
+	width: 100%;
+	float: left;
+	line-height: 1em;
+	position: absolute;
+	z-index: 11111;
+	top: 0px;
+	clip: rect(0px,auto,auto,auto);
+	margin-top: 400px;
+	padding-top: 0px;
+	letter-spacing: -0.05em;
+}
+h1#textob{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	font-size: 1.5em;
+	color: #FFFFFF;
+	text-align: center;
+	height: auto;
+	width: 100%;
+	float: left;
+	line-height: 1em;
+	position: absolute;
+	z-index: 11111;
+	top: 0px;
+	clip: rect(0px,auto,auto,auto);
+	margin-top: 480px;
+	padding-top: 0px;
+}
+h1#textoc{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	font-size: 1.2em;
+	color: #FFFFFF;
+	text-align: center;
+	height: auto;
+	width: 100%;
+	float: left;
+	line-height: 1em;
+	position: absolute;
+	z-index: 11111;
+	top: 0px;
+	clip: rect(0px,auto,auto,auto);
+	margin-top: 510px;
+	padding-top: 0px;
+}
+.imgslide#slide1{
+	background-image: url(../images/slide1.jpg);
+	float: left;
+	height: auto;
+	width: 100%;
+
+}
+@media only screen and (max-width: 1024px) {
+.contsilde {
+	width: 100%;
+	float: left;
+	height: 800px;
+	margin-top: 0px;
+}	
+	
+}

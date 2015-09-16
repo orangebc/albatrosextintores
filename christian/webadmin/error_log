@@ -1,0 +1,201 @@
+[27-Jan-2015 12:21:37 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[27-Jan-2015 12:21:37 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[27-Jan-2015 12:21:37 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[27-Jan-2015 12:21:37 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[27-Jan-2015 12:23:43 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:84) in /home/albatros/public_html/webadmin/_sessionadmin.php on line 25
+[27-Jan-2015 12:59:33 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[27-Jan-2015 12:59:33 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[27-Jan-2015 12:59:33 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/principal.php on line 87
+[27-Jan-2015 12:59:33 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/principal.php on line 89
+[27-Jan-2015 16:29:48 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:84) in /home/albatros/public_html/webadmin/_sessionadmin.php on line 25
+[28-Jan-2015 10:06:14 America/New_York] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/albatros/public_html/lib/randcode.php:84) in /home/albatros/public_html/webadmin/_sessionadmin.php on line 25
+[28-Jan-2015 10:06:14 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:84) in /home/albatros/public_html/webadmin/_sessionadmin.php on line 25
+[28-Jan-2015 10:06:32 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:84) in /home/albatros/public_html/webadmin/_sessionadmin.php on line 25
+[04-Feb-2015 10:20:53 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:84) in /home/albatros/public_html/webadmin/_sessionadmin.php on line 25
+[06-Feb-2015 16:49:02 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[06-Feb-2015 16:49:02 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[06-Feb-2015 16:49:02 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[06-Feb-2015 16:49:02 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[06-Feb-2015 16:49:48 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[06-Feb-2015 16:49:48 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[06-Feb-2015 16:49:48 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[06-Feb-2015 16:49:48 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[06-Feb-2015 16:49:49 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[06-Feb-2015 16:49:49 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[06-Feb-2015 16:49:49 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[06-Feb-2015 16:49:49 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[06-Feb-2015 16:49:49 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[06-Feb-2015 16:49:49 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[06-Feb-2015 16:49:49 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[06-Feb-2015 16:49:49 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[06-Feb-2015 16:49:49 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[06-Feb-2015 16:49:49 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[06-Feb-2015 16:49:49 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[06-Feb-2015 16:49:49 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[06-Feb-2015 16:49:50 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[06-Feb-2015 16:49:50 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[06-Feb-2015 16:49:50 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[06-Feb-2015 16:49:50 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[06-Feb-2015 16:49:50 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[06-Feb-2015 16:49:50 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[06-Feb-2015 16:49:50 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[06-Feb-2015 16:49:50 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[06-Feb-2015 16:49:50 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[06-Feb-2015 16:49:50 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[06-Feb-2015 16:49:50 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[06-Feb-2015 16:49:50 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[06-Feb-2015 16:49:50 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[06-Feb-2015 16:49:50 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[06-Feb-2015 16:49:50 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[06-Feb-2015 16:49:50 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[06-Feb-2015 16:49:50 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[06-Feb-2015 16:49:50 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[06-Feb-2015 16:49:50 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[06-Feb-2015 16:49:50 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[06-Feb-2015 16:50:14 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[06-Feb-2015 16:50:14 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[06-Feb-2015 16:50:14 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[06-Feb-2015 16:50:14 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[06-Feb-2015 16:50:15 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[06-Feb-2015 16:50:15 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[06-Feb-2015 16:50:15 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[06-Feb-2015 16:50:15 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[06-Feb-2015 16:50:15 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[06-Feb-2015 16:50:15 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[06-Feb-2015 16:50:15 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[06-Feb-2015 16:50:15 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[06-Feb-2015 16:50:15 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[06-Feb-2015 16:50:15 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[06-Feb-2015 16:50:15 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[06-Feb-2015 16:50:15 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[06-Feb-2015 16:50:15 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[06-Feb-2015 16:50:15 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[06-Feb-2015 16:50:15 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[06-Feb-2015 16:50:15 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[06-Feb-2015 16:50:15 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[06-Feb-2015 16:50:15 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[06-Feb-2015 16:50:15 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[06-Feb-2015 16:50:15 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[06-Feb-2015 16:50:28 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[06-Feb-2015 16:50:28 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[06-Feb-2015 16:50:28 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/principal.php on line 102
+[06-Feb-2015 16:50:28 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/principal.php on line 104
+[06-Feb-2015 16:52:00 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[06-Feb-2015 16:52:00 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[06-Feb-2015 16:52:00 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[06-Feb-2015 16:52:00 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[06-Feb-2015 17:04:50 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:108) in /home/albatros/public_html/webadmin/_sessionadmin.php on line 25
+[06-Feb-2015 17:10:03 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 14:04:07 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[09-Feb-2015 14:04:07 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[09-Feb-2015 14:04:07 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[09-Feb-2015 14:04:07 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[09-Feb-2015 14:04:10 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[09-Feb-2015 14:04:10 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[09-Feb-2015 14:04:10 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[09-Feb-2015 14:04:10 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[09-Feb-2015 14:04:11 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[09-Feb-2015 14:04:11 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[09-Feb-2015 14:04:11 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[09-Feb-2015 14:04:11 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[09-Feb-2015 14:04:11 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[09-Feb-2015 14:04:11 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[09-Feb-2015 14:04:11 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[09-Feb-2015 14:04:11 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[09-Feb-2015 14:04:27 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[09-Feb-2015 14:04:27 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[09-Feb-2015 14:04:27 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[09-Feb-2015 14:04:27 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[09-Feb-2015 14:04:32 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[09-Feb-2015 14:04:32 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[09-Feb-2015 14:04:32 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[09-Feb-2015 14:04:32 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[09-Feb-2015 14:04:34 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[09-Feb-2015 14:04:34 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[09-Feb-2015 14:04:34 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[09-Feb-2015 14:04:34 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[09-Feb-2015 14:33:20 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[09-Feb-2015 14:33:20 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[09-Feb-2015 14:33:20 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[09-Feb-2015 14:33:20 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[09-Feb-2015 14:33:21 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[09-Feb-2015 14:33:21 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[09-Feb-2015 14:33:21 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[09-Feb-2015 14:33:21 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[09-Feb-2015 14:33:21 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[09-Feb-2015 14:33:21 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[09-Feb-2015 14:33:21 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[09-Feb-2015 14:33:21 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[09-Feb-2015 14:33:26 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[09-Feb-2015 14:33:26 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[09-Feb-2015 14:33:26 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[09-Feb-2015 14:33:26 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[09-Feb-2015 14:33:28 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[09-Feb-2015 14:33:28 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[09-Feb-2015 14:33:28 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[09-Feb-2015 14:33:28 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[09-Feb-2015 14:33:28 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[09-Feb-2015 14:33:28 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[09-Feb-2015 14:33:28 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[09-Feb-2015 14:33:28 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[09-Feb-2015 14:33:28 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[09-Feb-2015 14:33:28 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[09-Feb-2015 14:33:28 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 21
+[09-Feb-2015 14:33:28 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/_sessionadmin.php on line 22
+[09-Feb-2015 14:33:44 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/albatros/public_html/lib/randcode.php on line 18
+[09-Feb-2015 14:33:44 America/New_York] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/lib/randcode.php on line 19
+[09-Feb-2015 14:33:44 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/albatros/public_html/webadmin/catmail.php on line 6
+[09-Feb-2015 14:33:44 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/albatros/public_html/webadmin/catmail.php on line 40
+[09-Feb-2015 14:36:26 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 14:36:26 America/New_York] PHP Fatal error:  Call to undefined function M_sathla_jpg() in /home/albatros/public_html/webadmin/catmail.php on line 78
+[09-Feb-2015 14:40:05 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 14:40:05 America/New_York] PHP Fatal error:  Call to undefined function M_sathla_jpg() in /home/albatros/public_html/webadmin/catmail.php on line 78
+[09-Feb-2015 14:40:23 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 14:40:23 America/New_York] PHP Fatal error:  Call to undefined function M_sathla_jpg() in /home/albatros/public_html/webadmin/catmail.php on line 78
+[09-Feb-2015 14:44:09 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 14:44:09 America/New_York] PHP Fatal error:  Call to undefined function M_sathla_jpg() in /home/albatros/public_html/webadmin/catmail.php on line 78
+[09-Feb-2015 14:48:43 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 14:48:43 America/New_York] PHP Fatal error:  Call to undefined function M_sathla_jpg() in /home/albatros/public_html/webadmin/catmail.php on line 78
+[09-Feb-2015 14:52:58 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 14:52:58 America/New_York] PHP Fatal error:  Call to undefined function M_sathla_jpg() in /home/albatros/public_html/webadmin/catmail.php on line 78
+[09-Feb-2015 14:55:06 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 14:55:06 America/New_York] PHP Fatal error:  Call to undefined function M_sathla_jpg() in /home/albatros/public_html/webadmin/catmail.php on line 78
+[09-Feb-2015 14:55:29 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 14:55:29 America/New_York] PHP Fatal error:  Call to undefined function M_sathla_jpg() in /home/albatros/public_html/webadmin/catmail.php on line 78
+[09-Feb-2015 14:57:24 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 14:57:24 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 14:58:48 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 14:58:48 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 14:59:14 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 14:59:14 America/New_York] PHP Fatal error:  Call to undefined function M_sathla_jpg() in /home/albatros/public_html/webadmin/catmail.php on line 78
+[09-Feb-2015 15:01:07 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 15:01:07 America/New_York] PHP Fatal error:  Call to undefined function M_sathla_jpg() in /home/albatros/public_html/webadmin/catmail.php on line 78
+[09-Feb-2015 15:01:15 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 15:01:15 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 15:01:36 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 15:01:36 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 15:02:12 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 15:02:12 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 15:03:25 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 15:03:25 America/New_York] PHP Fatal error:  Call to undefined function M_sathla_jpg() in /home/albatros/public_html/webadmin/catmail.php on line 78
+[09-Feb-2015 15:06:09 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 15:06:09 America/New_York] PHP Fatal error:  Call to undefined function M_sathla_jpg() in /home/albatros/public_html/webadmin/catmail.php on line 78
+[09-Feb-2015 15:07:07 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 15:07:07 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 15:08:14 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 15:08:14 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 74 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 15:12:15 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 76 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 15:12:15 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 76 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 15:18:11 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 76 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 15:18:11 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 76 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 15:18:38 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 76 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 15:18:38 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 76 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 15:18:55 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 76 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 15:18:55 America/New_York] PHP Warning:  Missing argument 2 for viewfiles(), called in /home/albatros/public_html/webadmin/catmail.php on line 76 and defined in /home/albatros/public_html/lib/randcode.php on line 97
+[09-Feb-2015 16:15:44 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:108) in /home/albatros/public_html/webadmin/_sessionadmin.php on line 25
+[09-Feb-2015 16:41:47 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:108) in /home/albatros/public_html/webadmin/_sessionadmin.php on line 25
+[23-Feb-2015 13:52:03 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:108) in /home/albatros/public_html/webadmin/_sessionadmin.php on line 25
+[23-Feb-2015 13:54:51 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/albatros/public_html/webadmin/_sel_cant.php on line 8
+[05-Mar-2015 09:24:17 America/New_York] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/albatros/public_html/lib/randcode.php:108) in /home/albatros/public_html/webadmin/_sessionadmin.php on line 25
+[05-Mar-2015 09:24:17 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:108) in /home/albatros/public_html/webadmin/_sessionadmin.php on line 25
+[05-Mar-2015 09:24:51 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/albatros/public_html/lib/randcode.php:108) in /home/albatros/public_html/webadmin/_sessionadmin.php on line 25
